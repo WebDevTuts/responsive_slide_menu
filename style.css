@@ -3,3 +3,9 @@ body {
   background-color: #f4f4f4;
   overflow-x: hidden;
 }
+
+.navbar {
+  background-color: #3b5998;
+  overflow: hidden;
+  height: 63px;
+}
