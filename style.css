@@ -24,3 +24,8 @@ body {
   margin: 8px 0 0 0;
   list-style: none;
 }
+
+.navbar a:hover {
+  background-color: #DDD;
+  color: #000;
+}
